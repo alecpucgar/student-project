@@ -8,12 +8,14 @@ Debes clonar el repositorio con "clone https://github.com/alecpucgar/student-pro
 ## Ejemplo de uso
 
 Puedes usar los distintos comandos de git
-
+Ejecutando el archivo analysis.py se hará un análisis de los datos de data.csv
 ## Puedes contribuir
 
 Enviando realease al contacto del siguiente apartado
 
 ## Informacion de contacto
 
+- Email: alejandro.puche@alumnos.upm.es
 - Email: sergio.gonzalezs@alumnos.upm.es
+
 
