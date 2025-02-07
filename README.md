@@ -1,4 +1,4 @@
-# Aprendiendo git
+# Aprendiendo git Sergio
 Este es un ejemplo de readme de un proyecto de git base
 
 ## Instalacion
@@ -15,5 +15,5 @@ Enviando realease al contacto del siguiente apartado
 
 ## Informacion de contacto
 
-- Email: alejandro.puche@alumnos.upm.es
+- Email: sergio.gonzalezs@alumnos.upm.es
 
